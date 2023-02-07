@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+}
+
+
+h1{
+    text-align: center;
+}
+
+
+img{
+    display: block;
+    margin: 0 auto 0 auto;
+}
+
+
+#button1{
+    margin-top: 10px;
+    margin-left: 535px;
+    margin-top: 40px;/*12*/
+}
+
+
+#button2{
+    margin-top: 40px;/*10*/
+    margin-left: 25px;
+
+}
+
+
+.container-fluid{
+    margin-top: 70px;
+
+}
+
+
+#shivankBtn{
+    margin-left: 525px;
+}
